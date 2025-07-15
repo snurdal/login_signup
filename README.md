@@ -3,8 +3,8 @@
 This project provides a modern and elegant user interface for easy user registration and login.
 
 ## Preview 📸 
-![Screenshot 1](./README/signIn_page.png)  
-![Screenshot 2](./README/signUp_page.png)
+![Screenshot 1](./readme_pics/signIn_page.png)  
+![Screenshot 2](./readme_pics/signUp_page.png)
 
 ## Features ⭐
 
